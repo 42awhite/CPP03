@@ -1,5 +1,5 @@
-NAME = exe_clap
-SRC = main.cpp ClapTrap.cpp
+NAME = exe_five
+SRC = main.cpp ClapTrap.cpp FragTrap.cpp
 
 OBJS	= ${SRC:.cpp=.o}
 

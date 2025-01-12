@@ -1,4 +1,4 @@
-NAME = exe_fixed
+NAME = exe_scav
 SRC = main.cpp ClapTrap.cpp ScavTrap.cpp
 
 OBJS	= ${SRC:.cpp=.o}
