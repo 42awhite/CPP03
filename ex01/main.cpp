@@ -11,6 +11,7 @@ int main() {
 
     // 3. Usar el método guardGate()
     scavNamed.guardGate();
+    scavNamed.attack("TUHAMSTER");
     std::cout << std::endl;
 
     // 4. Probar ataque, daño y reparación
